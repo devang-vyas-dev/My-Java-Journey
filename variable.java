@@ -14,7 +14,6 @@ public class variable{
         System.out.println("This is the Example of the char operator in Java: "+ alpHabet);
         System.out.println("This is the Example of Double: "+ price);
         System.out.println("This is the Example of Integer Type: "+ myNum);
-
         // We have Another Keyword for declaring variable and that is var keyword
         var x = 45; //This automatically declares datatypes based on values
         System.out.println(x);
