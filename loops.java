@@ -22,7 +22,7 @@ public class loops {
         }
         double sum = 0.0;
         for(int i = 1;i<=numSubject;i++){
-            System.out.print("Enter the Grade for the Subject Number "+i+ ":");
+            System.out.print("Enter the Grade for the Subject Number "+i+ ": ");
             double grade = scanner.nextInt();
             sum += grade;
         }
